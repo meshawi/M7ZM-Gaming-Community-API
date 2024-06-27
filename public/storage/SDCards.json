@@ -1,0 +1,1302 @@
+[
+    {
+        "cardID": "1",
+        "cardName": "أبراكدبرا!",
+        "cardType": "action",
+        "cardDescription": "بطاقه سحرية! بإمكانك تحويلها لمهمة أي بطاقة في اللعبة (عدا رحت فيها+تبطي عظم)",
+        "cardImage": "./SDImages/action1.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "2",
+        "cardName": "اكشف المستور",
+        "cardType": "action",
+        "cardDescription": "اختر احد اللاعبين يكشف لك اوراقه",
+        "cardImage": "./SDImages/action2.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "3",
+        "cardName": "تنقى لك!",
+        "cardType": "action",
+        "cardDescription": "بهذه البطاقة يمكنك اختيار أي بطاقة من ساحة اللعب الجماعية وضمها لأوراقك",
+        "cardImage": "./SDImages/action3.jpg",
+        "cardCopies": 2
+    },
+    {
+        "cardID": "4",
+        "cardName": "جددها!",
+        "cardType": "action",
+        "cardDescription": "بهذه البطاقة تجدد جميع أوراقك (بحيث تضع اوراقك القديمة في اخر السحب وبنفس عددها تسحب أوراق جديدة)",
+        "cardImage": "./SDImages/action4.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "5",
+        "cardName": "حبتين",
+        "cardType": "action",
+        "cardDescription": "اسحب بطاقتين إضافية",
+        "cardImage": "./SDImages/action5.jpg",
+        "cardCopies": 2
+    },
+    {
+        "cardID": "6",
+        "cardName": "رحت فيها!",
+        "cardType": "action",
+        "cardDescription": "اسحب مجموعة كاملة من ساحة أي لاعب واضفها لساحتك",
+        "cardImage": "./SDImages/action6.jpg",
+        "cardCopies": 2
+    },
+    {
+        "cardID": "7",
+        "cardName": "سلم واستلم",
+        "cardType": "action",
+        "cardDescription": "بدل جميع أوراقك مع أوراق أحد اللاعبين (لا يشترط تساوي الورق)",
+        "cardImage": "./SDImages/action7.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "8",
+        "cardName": "شربك !",
+        "cardType": "action",
+        "cardDescription": "اسحب بطاقتين من لاعبين وبدلهما بينهما (دون النظر للبطاقات)",
+        "cardImage": "./SDImages/action8.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "9",
+        "cardName": "شبيك لبيك!",
+        "cardType": "action",
+        "cardDescription": "بهذه البطاقة تستطيع رفع بطاقة واحدة فقط من بنكك وتضمها لأوراقك لتعيدها لوظيفتها",
+        "cardImage": "./SDImages/action9.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "10",
+        "cardName": "على هونك!",
+        "cardType": "action",
+        "cardDescription": "توضع هذه البطاقة لإيقاف اللاعب الذي انتهت أوراقه ويشرع بسحب 5 أوراق جديدة (بالتالي يسحب بطاقتين فقط)",
+        "cardImage": "./SDImages/action10.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "11",
+        "cardName": "عيني عينك!",
+        "cardType": "action",
+        "cardDescription": "اسحب بطاقة عشوائية من يد أي لاعب وأضفها لأوراقك",
+        "cardImage": "./SDImages/action11.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "12",
+        "cardName": "غفوة!",
+        "cardType": "action",
+        "cardDescription": "اختر لاعب لتعدي دوره",
+        "cardImage": "./SDImages/action12.jpg",
+        "cardCopies": 2
+    },
+    {
+        "cardID": "13",
+        "cardName": "فرفش!",
+        "cardType": "action",
+        "cardDescription": "العب 3 حركات إضافية",
+        "cardImage": "./SDImages/action13.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "14",
+        "cardName": "لا يحوشك!",
+        "cardType": "action",
+        "cardDescription": "تضاف على المجموعة المكتملة لتأمنها لك من السرقة",
+        "cardImage": "./SDImages/action14.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "15",
+        "cardName": "نسخ لصق",
+        "cardType": "action",
+        "cardDescription": "انسخ آخر أمر موجود في ساحة اللعب! ( اللعب بهذه البطاقة يعتبر حركتين )",
+        "cardImage": "./SDImages/action15.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "16",
+        "cardName": "وحدة تكفيك!",
+        "cardType": "action",
+        "cardDescription": "اختر لاعب لتقلص حركاته في الدور القادم من 3 حركات إلى حركة واحدة فقط",
+        "cardImage": "./SDImages/action16.jpg",
+        "cardCopies": 2
+    },
+    {
+        "cardID": "17",
+        "cardName": "ورينا شطارتك",
+        "cardType": "action",
+        "cardDescription": "اختر أحد اللاعبين لتمنعه من سحب بطاقتين بداية دوره، بحيث يلعب حركاته دون أن يسحب",
+        "cardImage": "./SDImages/action17.jpg",
+        "cardCopies": 2
+    },
+    {
+        "cardID": "18",
+        "cardName": "ادفع وانت ساكت!",
+        "cardType": "rejection",
+        "cardDescription": "تضم هذه البطاقة مع (بطاقة مستحقات) لإلزام اللاعبين من دفع المبلغ المطلوب دون رفضه",
+        "cardImage": "./SDImages/rejection1.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "19",
+        "cardName": "انفخ يا شريم قال ما من برطم",
+        "cardType": "rejection",
+        "cardDescription": "تسد المبلغ المطلوب منك في حال لم تكن لديك أموال كافيه لسداده وذلك حمايةً لأراضيك",
+        "cardImage": "./SDImages/rejection2.jpg",
+        "cardCopies": 2
+    },
+    {
+        "cardID": "20",
+        "cardName": "تبطي عظم",
+        "cardType": "rejection",
+        "cardDescription": "بهذه البطاقه تستطيع رفض اي امر (حتى بالمشمش )",
+        "cardImage": "./SDImages/rejection3.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "21",
+        "cardName": "بالمشمش",
+        "cardType": "rejection",
+        "cardDescription": "بهذه البطاقه تستطيع رفض اي امر (عدا بطاقة تبطي عظم )",
+        "cardImage": "./SDImages/rejection4.jpg",
+        "cardCopies": 3
+    },
+    {
+        "cardID": "22",
+        "cardName": "تغد بهم قبل يتعشون فيك!",
+        "cardType": "rejection",
+        "cardDescription": "(لو طلب منك مبلغ فصاحب الطلب هو من يدفعه لك)",
+        "cardImage": "./SDImages/rejection5.jpg",
+        "cardCopies": 2
+    },
+    {
+        "cardID": "23",
+        "cardName": "خذها عني",
+        "cardType": "rejection",
+        "cardDescription": "اختر لاعب ينفذ الأمر المطلوب منك (بشرط أن يكون قادر على تنفيذه)",
+        "cardImage": "./SDImages/rejection6.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "24",
+        "cardName": "دبر نفسك!",
+        "cardType": "rejection",
+        "cardDescription": "تمنع الخصم من استخدام اي امر لمصلحته (واسطة،حبتين،مصحصح،عميل مميز،فرفش،عدم تعرض)",
+        "cardImage": "./SDImages/rejection7.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "25",
+        "cardName": "لا يكثر!",
+        "cardType": "rejection",
+        "cardDescription": "تمنع الخصم من استخدام اي امر لمصلحته (واسطة،حبتين،مصحصح،عميل مميز،فرفش،عدم تعرض)",
+        "cardImage": "./SDImages/rejection8.jpg",
+        "cardCopies": 2
+    },
+    {
+        "cardID": "26",
+        "cardName": "مصحصح",
+        "cardType": "rejection",
+        "cardDescription": "بهذه البطاقة تستطيع لعب دورك (وأنت في وضع الغفوة)",
+        "cardImage": "./SDImages/rejection9.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "27",
+        "cardName": "فندق",
+        "cardType": "building",
+        "cardDescription": "يضافه على المجموعه المكتمله لزياده قيمه الايجار ( 3 م )",
+        "cardImage": "./SDImages/building1.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "28",
+        "cardName": "مجمع",
+        "cardType": "building",
+        "cardDescription": "يضافه على المجموعه المكتمله لزياده قيمه الايجار ( 3 م )",
+        "cardImage": "./SDImages/building2.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "29",
+        "cardName": "ملاهي",
+        "cardType": "building",
+        "cardDescription": "يضافه على المجموعه المكتمله لزياده قيمه الايجار ( 5م )",
+        "cardImage": "./SDImages/building3.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "30",
+        "cardName": "ناطحه سحاب",
+        "cardType": "building",
+        "cardDescription": "يضافه على المجموعه المكتمله لزياده قيمه الايجار ( 5م )",
+        "cardImage": "./SDImages/building4.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "31",
+        "cardName": "أشفطط!",
+        "cardType": "dues",
+        "cardDescription": "اختر أحد اللاعبين و اسحب بنكه كاملاً للساحة الجماعية",
+        "cardImage": "./SDImages/dues1.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "32",
+        "cardName": "جاك يامهنى ما تمنى!",
+        "cardType": "dues",
+        "cardDescription": "على جميع اللاعبين إعطائك 2 مليون",
+        "cardImage": "./SDImages/dues2.jpg",
+        "cardCopies": 2
+    },
+    {
+        "cardID": "33",
+        "cardName": "جب الفكة",
+        "cardType": "dues",
+        "cardDescription": "في حال كان المبلغ الذي تملكه أكثر من المطلوب منك، تضع البطاقة وتطلب المتبقي",
+        "cardImage": "./SDImages/dues3.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "34",
+        "cardName": "زيادة الخير خيرين",
+        "cardType": "dues",
+        "cardDescription": "بتطلب إيجار ؟! ضع هذه البطاقة مع بطاقة إيجار لتضاعف القيمة",
+        "cardImage": "./SDImages/dues4.jpg",
+        "cardCopies": 2
+    },
+    {
+        "cardID": "35",
+        "cardName": "شيك مفتوح",
+        "cardType": "dues",
+        "cardDescription": "شيك مفتوح يسدد اي مبلغ مطلوب منك",
+        "cardImage": "./SDImages/dues5.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "36",
+        "cardName": "طلع الدافيات",
+        "cardType": "dues",
+        "cardDescription": "اختر أحد اللاعبين ليدفع لك 5 مليون",
+        "cardImage": "./SDImages/dues6.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "37",
+        "cardName": "طلع زكاتك",
+        "cardType": "dues",
+        "cardDescription": "على جميع اللاعبين دفع 1 مليون لأقل اللاعبين رصيد في البنك",
+        "cardImage": "./SDImages/dues7.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "38",
+        "cardName": "عميل مميز!",
+        "cardType": "dues",
+        "cardDescription": "بواسطة هذه البطاقة يمكنك تغذية بنكك بالأموال دون ان تحسب لك حركات",
+        "cardImage": "./SDImages/dues8.jpg",
+        "cardCopies": 2
+    },
+    {
+        "cardID": "39",
+        "cardName": "واسطة!",
+        "cardType": "dues",
+        "cardDescription": "العب دورك مرة أخرى ( اللعب بهذه البطاقة يعتبر حركة)",
+        "cardImage": "./SDImages/dues9.jpg",
+        "cardCopies": 2
+    },
+    {
+        "cardID": "40",
+        "cardName": "هات الجوكر",
+        "cardType": "other",
+        "cardDescription": "اسحب الجوكر لساحتك ( حتى لو كان بمجموعة مكتملة)",
+        "cardImage": "./SDImages/other1.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "41",
+        "cardName": "الجوكر",
+        "cardType": "other",
+        "cardDescription": "اسحب الجوكر لساحتك ( حتى لو كان بمجموعة مكتملة)",
+        "cardImage": "./SDImages/other2.jpg",
+        "cardCopies": 3
+    },
+    {
+        "cardID": "42",
+        "cardName": "الدرعية",
+        "cardType": "land",
+        "landFamily": "الرياض",
+        "numberOfCardsToComplete": 4,
+        "valuesOfBuildings": {
+            "buildingOne": "2M",
+            "buildingTwo": "3M",
+            "buildingThree": "5M",
+            "buildingFour": "10M",
+            "maxBuildValue": "10M"
+        },
+        "cardImage": "./SDImages/land1.jpg"
+    },
+    {
+        "cardID": "43",
+        "cardName": "الجنادرية",
+        "cardType": "land",
+        "landFamily": "الرياض",
+        "numberOfCardsToComplete": 4,
+        "valuesOfBuildings": {
+            "buildingOne": "2M",
+            "buildingTwo": "3M",
+            "buildingThree": "5M",
+            "buildingFour": "10M",
+            "maxBuildValue": "10M"
+        },
+        "cardImage": "./SDImages/land2.jpg"
+    },
+    {
+        "cardID": "44",
+        "cardName": "سدير",
+        "cardType": "land",
+        "landFamily": "الرياض",
+        "numberOfCardsToComplete": 4,
+        "valuesOfBuildings": {
+            "buildingOne": "2M",
+            "buildingTwo": "3M",
+            "buildingThree": "5M",
+            "buildingFour": "10M",
+            "maxBuildValue": "10M"
+        },
+        "cardImage": "./SDImages/land3.jpg"
+    },
+    {
+        "cardID": "45",
+        "cardName": "الدوادمي",
+        "cardType": "land",
+        "landFamily": "الرياض",
+        "numberOfCardsToComplete": 4,
+        "valuesOfBuildings": {
+            "buildingOne": "2M",
+            "buildingTwo": "3M",
+            "buildingThree": "5M",
+            "buildingFour": "10M",
+            "maxBuildValue": "10M"
+        },
+        "cardImage": "./SDImages/land4.jpg"
+    },
+    {
+        "cardID": "46",
+        "cardName": "المندق",
+        "cardType": "land",
+        "landFamily": "الباحة",
+        "numberOfCardsToComplete": 2,
+        "valuesOfBuildings": {
+            "buildingOne": "1M",
+            "buildingTwo": "2M",
+            "maxBuildValue": "2M"
+        },
+        "cardImage": "./SDImages/land5.jpg"
+    },
+    {
+        "cardID": "47",
+        "cardName": "بلجرشي",
+        "cardType": "land",
+        "landFamily": "الباحة",
+        "numberOfCardsToComplete": 2,
+        "valuesOfBuildings": {
+            "buildingOne": "1M",
+            "buildingTwo": "2M",
+            "maxBuildValue": "2M"
+        },
+        "cardImage": "./SDImages/land6.jpg"
+    },
+    {
+        "cardID": "48",
+        "cardName": "الخبر",
+        "cardType": "land",
+        "landFamily": "الشرقية",
+        "numberOfCardsToComplete": 3,
+        "valuesOfBuildings": {
+            "buildingOne": "2M",
+            "buildingTwo": "3M",
+            "buildingThree": "6M",
+            "maxBuildValue": "6M"
+        },
+        "cardImage": "./SDImages/land7.jpg"
+    },
+    {
+        "cardID": "49",
+        "cardName": "الدمام",
+        "cardType": "land",
+        "landFamily": "الشرقية",
+        "numberOfCardsToComplete": 3,
+        "valuesOfBuildings": {
+            "buildingOne": "2M",
+            "buildingTwo": "3M",
+            "buildingThree": "6M",
+            "maxBuildValue": "6M"
+        },
+        "cardImage": "./SDImages/land8.jpg"
+    },
+    {
+        "cardID": "50",
+        "cardName": "الجبيل",
+        "cardType": "land",
+        "landFamily": "الشرقية",
+        "numberOfCardsToComplete": 4,
+        "valuesOfBuildings": {
+            "buildingOne": "2M",
+            "buildingTwo": "3M",
+            "buildingThree": "5M",
+            "buildingFour": "10M",
+            "maxBuildValue": "10M"
+        },
+        "cardImage": "./SDImages/land9.jpg"
+    },
+    {
+        "cardID": "51",
+        "cardName": "الشفا",
+        "cardType": "land",
+        "landFamily": "الطايف",
+        "numberOfCardsToComplete": 3,
+        "valuesOfBuildings": {
+            "buildingOne": "1M",
+            "buildingTwo": "2M",
+            "buildingThree": "3M",
+            "maxBuildValue": "3M"
+        },
+        "cardImage": "./SDImages/land10.jpg"
+    },
+    {
+        "cardID": "52",
+        "cardName": "هوازن",
+        "cardType": "land",
+        "landFamily": "الطايف",
+        "numberOfCardsToComplete": 3,
+        "valuesOfBuildings": {
+            "buildingOne": "1M",
+            "buildingTwo": "2M",
+            "buildingThree": "3M",
+            "maxBuildValue": "3M"
+        },
+        "cardImage": "./SDImages/land11.jpg"
+    },
+    {
+        "cardID": "53",
+        "cardName": "الهدا",
+        "cardType": "land",
+        "landFamily": "الطايف",
+        "numberOfCardsToComplete": 3,
+        "valuesOfBuildings": {
+            "buildingOne": "1M",
+            "buildingTwo": "2M",
+            "buildingThree": "3M",
+            "maxBuildValue": "3M"
+        },
+        "cardImage": "./SDImages/land12.jpg"
+    },
+    {
+        "cardID": "54",
+        "cardName": "بريدة",
+        "cardType": "land",
+        "landFamily": "القصيم",
+        "numberOfCardsToComplete": 3,
+        "valuesOfBuildings": {
+            "buildingOne": "2M",
+            "buildingTwo": "4M",
+            "buildingThree": "6M",
+            "maxBuildValue": "6M"
+        },
+        "cardImage": "./SDImages/land13.jpg"
+    },
+    {
+        "cardID": "55",
+        "cardName": "رياض الخبراء",
+        "cardType": "land",
+        "landFamily": "القصيم",
+        "numberOfCardsToComplete": 3,
+        "valuesOfBuildings": {
+            "buildingOne": "2M",
+            "buildingTwo": "4M",
+            "buildingThree": "6M",
+            "maxBuildValue": "6M"
+        },
+        "cardImage": "./SDImages/land14.jpg"
+    },
+    {
+        "cardID": "56",
+        "cardName": "عنزة",
+        "cardType": "land",
+        "landFamily": "القصيم",
+        "numberOfCardsToComplete": 3,
+        "valuesOfBuildings": {
+            "buildingOne": "2M",
+            "buildingTwo": "4M",
+            "buildingThree": "6M",
+            "maxBuildValue": "6M"
+        },
+        "cardImage": "./SDImages/land15.jpg"
+    },
+    {
+        "cardID": "57",
+        "cardName": "العلا",
+        "cardType": "land",
+        "landFamily": "المدينة",
+        "numberOfCardsToComplete": 3,
+        "valuesOfBuildings": {
+            "buildingOne": "1M",
+            "buildingTwo": "2M",
+            "buildingThree": "4M",
+            "maxBuildValue": "4M"
+        },
+        "cardImage": "./SDImages/land16.jpg"
+    },
+    {
+        "cardID": "58",
+        "cardName": "ينبع",
+        "cardType": "land",
+        "landFamily": "المدينة",
+        "numberOfCardsToComplete": 3,
+        "valuesOfBuildings": {
+            "buildingOne": "1M",
+            "buildingTwo": "2M",
+            "buildingThree": "4M",
+            "maxBuildValue": "4M"
+        },
+        "cardImage": "./SDImages/land17.jpg"
+    },
+    {
+        "cardID": "59",
+        "cardName": "مهد الذهب",
+        "cardType": "land",
+        "landFamily": "المدينة",
+        "numberOfCardsToComplete": 3,
+        "valuesOfBuildings": {
+            "buildingOne": "1M",
+            "buildingTwo": "2M",
+            "buildingThree": "4M",
+            "maxBuildValue": "4M"
+        },
+        "cardImage": "./SDImages/land18.jpg"
+    },
+    {
+        "cardID": "60",
+        "cardName": "نيوم",
+        "cardType": "land",
+        "landFamily": "تبوك",
+        "numberOfCardsToComplete": 2,
+        "valuesOfBuildings": {
+            "buildingOne": "1M",
+            "buildingTwo": "2M",
+            "maxBuildValue": "2M"
+        },
+        "cardImage": "./SDImages/land19.jpg"
+    },
+    {
+        "cardID": "61",
+        "cardName": "تيماء",
+        "cardType": "land",
+        "landFamily": "تبوك",
+        "numberOfCardsToComplete": 2,
+        "valuesOfBuildings": {
+            "buildingOne": "1M",
+            "buildingTwo": "2M",
+            "maxBuildValue": "2M"
+        },
+        "cardImage": "./SDImages/land20.jpg"
+    },
+    {
+        "cardID": "62",
+        "cardName": "جزر فرسان",
+        "cardType": "land",
+        "landFamily": "جازان",
+        "numberOfCardsToComplete": 4,
+        "valuesOfBuildings": {
+            "buildingOne": "1M",
+            "buildingTwo": "2M",
+            "buildingThree": "3M",
+            "buildingFour": "4M",
+            "maxBuildValue": "4M"
+        },
+        "cardImage": "./SDImages/land21.jpg"
+    },
+    {
+        "cardID": "63",
+        "cardName": "عريش",
+        "cardType": "land",
+        "landFamily": "جازان",
+        "numberOfCardsToComplete": 4,
+        "valuesOfBuildings": {
+            "buildingOne": "2M",
+            "buildingTwo": "3M",
+            "buildingThree": "5M",
+            "buildingFour": "10M",
+            "maxBuildValue": "10M"
+        },
+        "cardImage": "./SDImages/land22.jpg"
+    },
+    {
+        "cardID": "64",
+        "cardName": "فيفا",
+        "cardType": "land",
+        "landFamily": "جازان",
+        "numberOfCardsToComplete": 4,
+        "valuesOfBuildings": {
+            "buildingOne": "2M",
+            "buildingTwo": "3M",
+            "buildingThree": "5M",
+            "buildingFour": "10M",
+            "maxBuildValue": "10M"
+        },
+        "cardImage": "./SDImages/land23.jpg"
+    },
+    {
+        "cardID": "65",
+        "cardName": "دره العروس",
+        "cardType": "land",
+        "landFamily": "جدة",
+        "numberOfCardsToComplete": 2,
+        "valuesOfBuildings": {
+            "buildingOne": "3M",
+            "buildingTwo": "8M",
+            "maxBuildValue": "8M"
+        },
+        "cardImage": "./SDImages/land24.jpg"
+    },
+    {
+        "cardID": "66",
+        "cardName": "جده القديمة",
+        "cardType": "land",
+        "landFamily": "جدة",
+        "numberOfCardsToComplete": 2,
+        "valuesOfBuildings": {
+            "buildingOne": "3M",
+            "buildingTwo": "8M",
+            "maxBuildValue": "8M"
+        },
+        "cardImage": "./SDImages/land25.jpg"
+    },
+    {
+        "cardID": "67",
+        "cardName": "الشنان",
+        "cardType": "land",
+        "landFamily": "حايل",
+        "numberOfCardsToComplete": 2,
+        "valuesOfBuildings": {
+            "buildingOne": "1M",
+            "buildingTwo": "2M",
+            "maxBuildValue": "2M"
+        },
+        "cardImage": "./SDImages/land26.jpg"
+    },
+    {
+        "cardID": "68",
+        "cardName": "الغزالة",
+        "cardType": "land",
+        "landFamily": "حايل",
+        "numberOfCardsToComplete": 2,
+        "valuesOfBuildings": {
+            "buildingOne": "1M",
+            "buildingTwo": "2M",
+            "maxBuildValue": "2M"
+        },
+        "cardImage": "./SDImages/land27.jpg"
+    },
+    {
+        "cardID": "69",
+        "cardName": "النماص",
+        "cardType": "land",
+        "landFamily": "عسير",
+        "numberOfCardsToComplete": 3,
+        "valuesOfBuildings": {
+            "buildingOne": "1M",
+            "buildingTwo": "3M",
+            "buildingThree": "5M",
+            "maxBuildValue": "5M"
+        },
+        "cardImage": "./SDImages/land28.jpg"
+    },
+    {
+        "cardID": "70",
+        "cardName": "خميس مشيط",
+        "cardType": "land",
+        "landFamily": "عسير",
+        "numberOfCardsToComplete": 3,
+        "valuesOfBuildings": {
+            "buildingOne": "1M",
+            "buildingTwo": "3M",
+            "buildingThree": "5M",
+            "maxBuildValue": "5M"
+        },
+        "cardImage": "./SDImages/land29.jpg"
+    },
+    {
+        "cardID": "71",
+        "cardName": "ابها",
+        "cardType": "land",
+        "landFamily": "عسير",
+        "numberOfCardsToComplete": 3,
+        "valuesOfBuildings": {
+            "buildingOne": "1M",
+            "buildingTwo": "3M",
+            "buildingThree": "5M",
+            "maxBuildValue": "5M"
+        },
+        "cardImage": "./SDImages/land30.jpg"
+    },
+    {
+        "cardID": "72",
+        "cardName": "عرفة",
+        "cardType": "land",
+        "landFamily": "مكة",
+        "numberOfCardsToComplete": 3,
+        "valuesOfBuildings": {
+            "buildingOne": "2M",
+            "buildingTwo": "4M",
+            "buildingThree": "7M",
+            "maxBuildValue": "7M"
+        },
+        "cardImage": "./SDImages/land31.jpg"
+    },
+    {
+        "cardID": "73",
+        "cardName": "مزدلفة",
+        "cardType": "land",
+        "landFamily": "مكة",
+        "numberOfCardsToComplete": 3,
+        "valuesOfBuildings": {
+            "buildingOne": "2M",
+            "buildingTwo": "4M",
+            "buildingThree": "7M",
+            "maxBuildValue": "7M"
+        },
+        "cardImage": "./SDImages/land32.jpg"
+    },
+    {
+        "cardID": "74",
+        "cardName": "اجياد مكة",
+        "cardType": "land",
+        "landFamily": "مكة",
+        "numberOfCardsToComplete": 3,
+        "valuesOfBuildings": {
+            "buildingOne": "2M",
+            "buildingTwo": "4M",
+            "buildingThree": "7M",
+            "maxBuildValue": "7M"
+        },
+        "cardImage": "./SDImages/land33.jpg"
+    },
+    {
+        "cardID": "75",
+        "cardNames": [
+            "الرياض",
+            "حائل",
+            "الثمامة",
+            "بقعاء"
+        ],
+        "cardType": "land",
+        "landDetails": {
+            "family1": {
+                "landFamily": "الرياض",
+                "landName": "الثمامة",
+                "numberOfCardsToComplete": 4,
+                "valuesOfBuildings": {
+                    "buildingOne": "2M",
+                    "buildingTwo": "3M",
+                    "buildingThree": "5M",
+                    "buildingFour": "10M",
+                    "maxBuildValue": "10M"
+                }
+            },
+            "family2": {
+                "landFamily": "حائل",
+                "landName": "بقعاء",
+                "numberOfCardsToComplete": 2,
+                "valuesOfBuildings": {
+                    "buildingOne": "1M",
+                    "buildingTwo": "2M",
+                    "maxBuildValue": "2M"
+                }
+            }
+        },
+        "cardImage": "./SDImages/land34.jpg"
+    },
+    {
+        "cardID": "76",
+        "cardNames": [
+            "الرياض",
+            "مكة",
+            "شقراء",
+            "القنفذة"
+        ],
+        "cardType": "land",
+        "landDetails": {
+            "family1": {
+                "landFamily": "الرياض",
+                "landName": "شقراء",
+                "numberOfCardsToComplete": 4,
+                "valuesOfBuildings": {
+                    "buildingOne": "2M",
+                    "buildingTwo": "3M",
+                    "buildingThree": "5M",
+                    "buildingFour": "10M",
+                    "maxBuildValue": "10M"
+                }
+            },
+            "family2": {
+                "landFamily": "مكة",
+                "landName": "القنفذة",
+                "numberOfCardsToComplete": 3,
+                "valuesOfBuildings": {
+                    "buildingOne": "2M",
+                    "buildingTwo": "4M",
+                    "buildingThree": "7M",
+                    "maxBuildValue": "7M"
+                }
+            }
+        },
+        "cardImage": "./SDImages/land35.jpg"
+    },
+    {
+        "cardID": "77",
+        "cardNames": [
+            "جدة",
+            "مكة",
+            "حارة البحر",
+            "رابغ"
+        ],
+        "cardType": "land",
+        "landDetails": {
+            "family1": {
+                "landFamily": "جدة",
+                "landName": "حارة البحر",
+                "numberOfCardsToComplete": 2,
+                "valuesOfBuildings": {
+                    "buildingOne": "3M",
+                    "buildingTwo": "8M",
+                    "maxBuildValue": "8M"
+                }
+            },
+            "family2": {
+                "landFamily": "مكة",
+                "landName": "رابغ",
+                "numberOfCardsToComplete": 3,
+                "valuesOfBuildings": {
+                    "buildingOne": "2M",
+                    "buildingTwo": "4M",
+                    "buildingThree": "7M",
+                    "maxBuildValue": "7M"
+                }
+            }
+        },
+        "cardImage": "./SDImages/land36.jpg"
+    },
+    {
+        "cardID": "78",
+        "cardNames": [
+            "الشرقية",
+            "القصيم",
+            "الخفجي",
+            "البكيرية"
+        ],
+        "cardType": "land",
+        "landDetails": {
+            "family1": {
+                "landFamily": "الشرقية",
+                "landName": "الخفجي",
+                "numberOfCardsToComplete": 3,
+                "valuesOfBuildings": {
+                    "buildingOne": "2M",
+                    "buildingTwo": "3M",
+                    "buildingThree": "6M",
+                    "maxBuildValue": "6M"
+                }
+            },
+            "family2": {
+                "landFamily": "القصيم",
+                "landName": "البكيرية",
+                "numberOfCardsToComplete": 3,
+                "valuesOfBuildings": {
+                    "buildingOne": "2M",
+                    "buildingTwo": "4M",
+                    "buildingThree": "6M",
+                    "maxBuildValue": "6M"
+                }
+            }
+        },
+        "cardImage": "./SDImages/land37.jpg"
+    },
+    {
+        "cardID": "79",
+        "cardNames": [
+            "الشرقية",
+            "القصيم",
+            "الاحساء",
+            "الرس"
+        ],
+        "cardType": "land",
+        "landDetails": {
+            "family1": {
+                "landFamily": "الشرقية",
+                "landName": "الاحساء",
+                "numberOfCardsToComplete": 3,
+                "valuesOfBuildings": {
+                    "buildingOne": "2M",
+                    "buildingTwo": "3M",
+                    "buildingThree": "6M",
+                    "maxBuildValue": "6M"
+                }
+            },
+            "family2": {
+                "landFamily": "القصيم",
+                "landName": "الرس",
+                "numberOfCardsToComplete": 3,
+                "valuesOfBuildings": {
+                    "buildingOne": "2M",
+                    "buildingTwo": "4M",
+                    "buildingThree": "6M",
+                    "maxBuildValue": "6M"
+                }
+            }
+        },
+        "cardImage": "./SDImages/land38.jpg"
+    },
+    {
+        "cardID": "80",
+        "cardNames": [
+            "المدينة",
+            "بيشة",
+            "قباء",
+            "عسيرة"
+        ],
+        "cardType": "land",
+        "landDetails": {
+            "family1": {
+                "landFamily": "المدينة",
+                "landName": "قباء",
+                "numberOfCardsToComplete": 3,
+                "valuesOfBuildings": {
+                    "buildingOne": "1M",
+                    "buildingTwo": "2M",
+                    "buildingThree": "4M",
+                    "maxBuildValue": "4M"
+                }
+            },
+            "family2": {
+                "landFamily": "بيشة",
+                "landName": "عسيرة",
+                "numberOfCardsToComplete": 3,
+                "valuesOfBuildings": {
+                    "buildingOne": "1M",
+                    "buildingTwo": "3M",
+                    "buildingThree": "5M",
+                    "maxBuildValue": "5M"
+                }
+            }
+        },
+        "cardImage": "./SDImages/land39.jpg"
+    },
+    {
+        "cardID": "81",
+        "cardNames": [
+            "المدينة",
+            "بيشة",
+            "بدر",
+            "ساره عبيدة"
+        ],
+        "cardType": "land",
+        "landDetails": {
+            "family1": {
+                "landFamily": "المدينة",
+                "landName": "بدر",
+                "numberOfCardsToComplete": 3,
+                "valuesOfBuildings": {
+                    "buildingOne": "1M",
+                    "buildingTwo": "2M",
+                    "buildingThree": "4M",
+                    "maxBuildValue": "4M"
+                }
+            },
+            "family2": {
+                "landFamily": "بيشة",
+                "landName": "ساره عبيدة",
+                "numberOfCardsToComplete": 3,
+                "valuesOfBuildings": {
+                    "buildingOne": "1M",
+                    "buildingTwo": "3M",
+                    "buildingThree": "5M",
+                    "maxBuildValue": "5M"
+                }
+            }
+        },
+        "cardImage": "./SDImages/land40.jpg"
+    },
+    {
+        "cardID": "82",
+        "cardNames": [
+            "تبوك",
+            "الطائف",
+            "املج",
+            "ثقيف"
+        ],
+        "cardType": "land",
+        "landDetails": {
+            "family1": {
+                "landFamily": "تبوك",
+                "landName": "املج",
+                "numberOfCardsToComplete": 2,
+                "valuesOfBuildings": {
+                    "buildingOne": "1M",
+                    "buildingTwo": "2M",
+                    "maxBuildValue": "2M"
+                }
+            },
+            "family2": {
+                "landFamily": "الطائف",
+                "landName": "ثقيف",
+                "numberOfCardsToComplete": 2,
+                "valuesOfBuildings": {
+                    "buildingOne": "1M",
+                    "buildingTwo": "2M",
+                    "buildingThree": "3M",
+                    "maxBuildValue": "3M"
+                }
+            }
+        },
+        "cardImage": "./SDImages/land41.jpg"
+    },
+    {
+        "cardID": "83",
+        "cardNames": [
+            "جازان",
+            "الباحة",
+            "بيش",
+            "المخواة"
+        ],
+        "cardType": "land",
+        "landDetails": {
+            "family1": {
+                "landFamily": "جازان",
+                "landName": "بيش",
+                "numberOfCardsToComplete": 4,
+                "valuesOfBuildings": {
+                    "buildingOne": "1M",
+                    "buildingTwo": "2M",
+                    "buildingThree": "3M",
+                    "buildingFour": "4M",
+                    "maxBuildValue": "4M"
+                }
+            },
+            "family2": {
+                "landFamily": "الباحة",
+                "landName": "المخواة",
+                "numberOfCardsToComplete": 2,
+                "valuesOfBuildings": {
+                    "buildingOne": "1M",
+                    "buildingTwo": "2M",
+                    "maxBuildValue": "2M"
+                }
+            }
+        },
+        "cardImage": "./SDImages/land42.jpg"
+    },
+    {
+        "cardID": "84",
+        "cardName": "بطاقة إيجار",
+        "cardType": "rental",
+        "familiesSupported": [
+            "جازان",
+            "الباحة"
+        ],
+        "value": "1M",
+        "cardImage": "./SDImages/land43.jpg"
+    },
+    {
+        "cardID": "85",
+        "cardName": "بطاقة إيجار",
+        "cardType": "rental",
+        "familiesSupported": [
+            "الشرقية",
+            "القصيم"
+        ],
+        "value": "1M",
+        "cardImage": "./SDImages/land44.jpg"
+    },
+    {
+        "cardID": "86",
+        "cardName": "بطاقة إيجار",
+        "cardType": "rental",
+        "familiesSupported": [
+            "الطائف",
+            "تبوك"
+        ],
+        "value": "1M",
+        "cardImage": "./SDImages/land45.jpg"
+    },
+    {
+        "cardID": "87",
+        "cardName": "بطاقة إيجار",
+        "cardType": "rental",
+        "familiesSupported": [
+            "الرياض",
+            "حائل"
+        ],
+        "value": "1M",
+        "cardImage": "./SDImages/land46.jpg"
+    },
+    {
+        "cardID": "88",
+        "cardName": "بطاقة إيجار",
+        "cardType": "rental",
+        "familiesSupported": [
+            "الطائف",
+            "الباحة",
+            "الشرقية",
+            "القصيم",
+            "تبوك",
+            "جازان",
+            "حائل",
+            "الرياض"
+        ],
+        "value": "3M",
+        "cardImage": "./SDImages/land47.jpg"
+    },
+    {
+        "cardID": "89",
+        "cardName": "بطاقة إيجار",
+        "cardType": "rental",
+        "familiesSupported": [
+            "مكة",
+            "جدة"
+        ],
+        "value": "1M",
+        "cardImage": "./SDImages/land48.jpg"
+    },
+    {
+        "cardID": "90",
+        "cardName": "بطاقة إيجار",
+        "cardType": "rental",
+        "familiesSupported": [
+            "المدينة",
+            "عسير"
+        ],
+        "value": "1M",
+        "cardImage": "./SDImages/land49.jpg"
+    },
+    {
+        "cardID": "91",
+        "cardName": "1م",
+        "cardType": "money",
+        "moneyValue": "1M",
+        "cardImage": "./SDImages/money1m.jpg"
+    },
+    {
+        "cardID": "92",
+        "cardName": "2م",
+        "cardType": "money",
+        "moneyValue": "2M",
+        "cardImage": "./SDImages/money2m.jpg"
+    },
+    {
+        "cardID": "93",
+        "cardName": "3م",
+        "cardType": "money",
+        "moneyValue": "3M",
+        "cardImage": "./SDImages/money3m.jpg"
+    },
+    {
+        "cardID": "94",
+        "cardName": "4م",
+        "cardType": "money",
+        "moneyValue": "4M",
+        "cardImage": "./SDImages/money4m.jpg"
+    },
+    {
+        "cardID": "95",
+        "cardName": "5م",
+        "cardType": "money",
+        "moneyValue": "5M",
+        "cardImage": "./SDImages/money5m.jpg"
+    },
+    {
+        "cardID": "96",
+        "cardName": "10م",
+        "cardType": "money",
+        "moneyValue": "10M",
+        "cardImage": "./SDImages/money10m.jpg"
+    },
+    {
+        "cardID": "97",
+        "cardName": "20م",
+        "cardType": "money",
+        "moneyValue": "20M",
+        "cardImage": "./SDImages/money20m.jpg"
+    },
+    {
+        "cardID": "98",
+        "cardName": "ازرف",
+        "cardType": "realestate",
+        "cardDescription": "ماكتبتها",
+        "cardImage": "./SDImages/realestate1.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "99",
+        "cardName": "تمت المصادرة",
+        "cardType": "realestate",
+        "cardDescription": "ماكتبتها",
+        "cardImage": "./SDImages/realestate2.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "100",
+        "cardName": "سوق الهوامير",
+        "cardType": "realestate",
+        "cardDescription": "ماكتبتها",
+        "cardImage": "./SDImages/realestate3.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "101",
+        "cardName": "عدم تعرض",
+        "cardType": "realestate",
+        "cardDescription": "ماكتبتها",
+        "cardImage": "./SDImages/realestate4.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "102",
+        "cardName": "عطني اعطيك",
+        "cardType": "realestate",
+        "cardDescription": "ماكتبتها",
+        "cardImage": "./SDImages/realestate5.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "103",
+        "cardName": "مزاد",
+        "cardType": "realestate",
+        "cardDescription": "ماكتبتها",
+        "cardImage": "./SDImages/realestate6.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "104",
+        "cardName": "معليش",
+        "cardType": "realestate",
+        "cardDescription": "ماكتبتها",
+        "cardImage": "./SDImages/realestate7.jpg",
+        "cardCopies": 1
+    },
+    {
+        "cardID": "105",
+        "cardName": "مهناش ارض",
+        "cardType": "realestate",
+        "cardDescription": "ماكتبتها",
+        "cardImage": "./SDImages/realestate8.jpg",
+        "cardCopies": 1
+    }
+]
