@@ -5,7 +5,7 @@
 
 Welcome to the backend API for the **M7ZM-Gaming-Community** project! This API handles all the functionalities required to run the gaming community platform, from user management to media uploads and interactions. This project is designed to provide a seamless experience for gamers to share their content and interact with each other.
 
-🔗 **Project Repository:** [M7ZM-Gaming-Community](https://github.com/yourusername/m7zm-gaming-community)
+🔗 **Project Repository:** [M7ZM-Gaming-Community](https://github.com/meshawi/M7ZM-Gaming-Community.git)
 
 ## Table of Contents 📚
 
